@@ -1,1 +1,22 @@
+                                  Git E Github
+
 Link para o Download do git:https://git-scm.com/download/win
+
+-Benefícios:
+
+1.Controle de Versão.
+2.Armazenamento em Nuvem.
+3.Trabalho em Equipe.
+4.Melhorar seu Código.
+5.Reconhecimento.
+
+-Comandos Básicos:
+
+1.git init -> Este comando é usado para criar um novo repositório GIT.
+2.git add . -> Este comando pode ser usado para adicionar arquivos presente no diretório local para o índice.
+3.git commit -m -> Este comando é usado para confirmar as alterações na cabeça.
+4.git clone 
+5.git status -> Este comando exibe a lista de arquivos alterados juntamente com os arquivos que ainda não foram adicionados ou confirmados.
+6.git push -> É outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho. 
+7.git pull -> Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando pull é usado.
+8.git config -> pode ser usado para definir valores de configuração específicos do usuário como e-mail.
