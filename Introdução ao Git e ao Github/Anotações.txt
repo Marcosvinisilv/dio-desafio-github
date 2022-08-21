@@ -1,5 +1,8 @@
                                   Git E Github
 
+-Git -> Sistema de controle de versão distríbuido.
+-GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+
 Link para o Download do git:https://git-scm.com/download/win
 
 -Benefícios:
@@ -20,3 +23,19 @@ Link para o Download do git:https://git-scm.com/download/win
 6.git push -> É outro dos comandos git básicos mais usados. Um simples envio envia as alterações feitas para o ramo mestre do repositório remoto associado ao diretório de trabalho. 
 7.git pull -> Para mesclar todas as alterações presentes no repositório remoto para o diretório de trabalho local, o comando pull é usado.
 8.git config -> pode ser usado para definir valores de configuração específicos do usuário como e-mail.
+
+-Comandos Mais Usados no Linux:
+
+pwd: encontra o caminho completo do diretório atual.
+cd: permite navegar até determinada pasta.
+ls: visualiza todos os arquivos de um diretório.
+cat: lista os conteúdos de um arquivo de texto na saída padrão (sdout).
+cp: copia arquivos do diretório atual para uma pasta diferente.
+mv: pode ser usado para mover ou renomear arquivos.
+mkdir: cria um novo diretório.
+rmdir: permite deletar diretórios vazios.
+
+-Chave SSH e Tokens:
+
+ O SSH (Secure Shell), também conhecido como Secure Socket Shell, é um protocolo que permite a conexão com servidores remotos, de forma criptografada e mais segura, usando um par de chaves RSA.
+
